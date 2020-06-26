@@ -4,19 +4,20 @@
 body { 
 font-family: georgia, serif;
 color: #000000;
-line-height: 1.4;
+line-height: 1.4em;
 background-image: url("page-bg-gif");
 background-color: #F7F3DE;
+background-repeat:no-repeat;
+background-attachment: fixed;
   
 }  
   
-
-
-header {
+header h1 {
   font-size: 350%;
   color: #7C1A00;
   padding: 40px;
   left-padding: 120px;
-  background-image:header-image-1.gif;
-
+  background-image:url("header-image-1.gif");
+  background-repeat:no-repeat;
 }
+

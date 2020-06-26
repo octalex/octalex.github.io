@@ -7,7 +7,7 @@ color: #000000;
 line-height: 1.4em;
 background-image: url("page-bg-gif");
 background-color: #F7F3DE;
-background-repeat:no-repeat;
+ background-repeat:no-repeat;
 background-attachment: fixed;
   
 }  
@@ -17,7 +17,7 @@ header h1 {
   color: #7C1A00;
   padding: 40px;
   left-padding: 120px;
-  background-image:url("header-image-1.gif");
-  background-repeat:no-repeat;
+ background-image:url("header-image-1.gif");
+ background-repeat:no-repeat;
 }
 
